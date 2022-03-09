@@ -399,6 +399,11 @@ header,
 
   .title {
     font-size: 4rem;
+    margin-top: 1.25rem;
+  }
+
+  .body {
+    margin: 2rem 0 4rem;
   }
 
   .btn--demo {
